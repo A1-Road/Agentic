@@ -1,0 +1,9 @@
+# 各ライブラリは適宜バージョン指定してください
+agentkit
+web3
+python-dotenv
+grpcio
+protobuf
+prometheus_client
+redis
+pytest 
